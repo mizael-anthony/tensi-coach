@@ -1,0 +1,8 @@
+{
+  "name": "TensiCoach",
+  "description": "Coach IA mobile-first pour le suivi et la prévention de l'hypertension artérielle avec conseils personnalisés et rapport médical.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
